@@ -1,2 +1,2 @@
 ccc
-cbc
+C C C
