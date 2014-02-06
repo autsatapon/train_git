@@ -1,3 +1,2 @@
 ccc
-CCC AA
-CCW
+BBB
