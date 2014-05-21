@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request>
+	<rowproduct>
+		<shopid>320697</shopid>
+		<items>
+			<item0>
+				<pid>18051</pid>
+				<productid>ME162</productid>
+				<topic>Winnie Jewelry : ต่างหูสแควร์ไดมอนด์ (ME162)</topic>
+				<quantity>1</quantity>
+				<totalPrice>1</totalPrice>
+				<shopidref>322963</shopidref>
+				<margin_price>0</margin_price>
+			</item0>
+			<item1>
+				<pid>delivery</pid>
+				<productid>delivery</productid>
+				<topic>Free Shipping</topic>
+				<quantity>1</quantity>
+				<totalPrice>0</totalPrice>
+				<shopidref>322963</shopidref>
+			</item1>
+		</items>
+	</rowproduct>
+	<sof_channel>ATM</sof_channel>
+	<referenceId>22</referenceId>
+	<rowuser>
+		<ssoid>4620761</ssoid>
+		<trueid>emailtesting54321@gmail.com</trueid>
+		<fullname>Test Dev2</fullname>
+		<address>RS ห้วยขวาง ห้วยขวาง</address>
+		<district>ห้วยขวาง</district>
+		<province>กรุงเทพมหานคร</province>
+		<zip>11111</zip>
+		<country>Thailand</country>
+		<mphone>0890000000</mphone>
+		<citizenid></citizenid>
+	</rowuser>
+	<billing>
+		<fullname>Test Dev2</fullname>
+		<address>RS ห้วยขวาง ห้วยขวาง</address>
+		<district>ห้วยขวาง</district>
+		<province>กรุงเทพมหานคร</province>
+		<zip>11111</zip>
+		<country>Thailand</country>
+	</billing>
+	<extraparam>
+		<response_url>https://pcms.igetapp.com/payment/fg-response?success=1</response_url>
+		<back_url>https://pcms.igetapp.com/payment/fg-response?success=1</back_url>
+		<note></note>
+	</extraparam>
+</request>

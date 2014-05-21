@@ -1,0 +1,54 @@
+{
+	"name": "laravel/laravel",
+	"description": "The Laravel Framework.",
+	"keywords": ["framework", "laravel"],
+	"require": {
+		"laravel/framework": "4.1.*",
+		"cartalyst/sentry": "2.0.*",
+		"loic-sharma/profiler": "1.1.*",
+		"teepluss/up": "v1.0.0",
+		"teepluss/api": "v1.0.1",
+		"teepluss/theme": "v1.1.0",
+		"teepluss/harvey": "v0.1",
+		"bllim/datatables": "v1.3.3",
+		"ruflin/Elastica": "v0.90.10",
+		"mtdowling/cron-expression": "1.0.*",
+		"raveren/kint": "dev-master",
+		"phpoffice/phpexcel": "dev-master",
+		"teepluss/explore": "dev-master",
+		"kmd/logviewer": "1.1.*"
+	},
+	"autoload": {
+		"classmap": [
+			"app/core",
+			"app/models",
+			"app/migrates",
+			"app/commands",
+			"app/libraries",
+			"app/controllers",
+			"app/apisearch",
+			"app/repositories",
+			"app/database/seeds",
+			"app/database/migrations",
+			"app/tests/TestCase.php"
+		]
+	},
+	"scripts": {
+		"post-install-cmd": [
+			"php artisan optimize"
+		],
+		"pre-update-cmd": [
+			"php artisan clear-compiled"
+		],
+		"post-update-cmd": [
+			"php artisan optimize"
+		],
+		"post-create-project-cmd": [
+			"php artisan key:generate"
+		]
+	},
+	"config": {
+		"preferred-install": "dist"
+	},
+	"minimum-stability": "dev"
+}

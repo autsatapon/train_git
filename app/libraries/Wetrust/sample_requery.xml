@@ -1,0 +1,3 @@
+<paymentgateway>
+    <payment cpgtransactionid="131111737102" transactionid="27296642" respcode="190026" respdesc="Null data" payment_channel="CCW" amount="4.00" pay_date="" channeltype="WEB" orderidwls="9327808" ref1="90000000" ref2="269793278081" ref3="6608" ref4=""  loginuser="emailtesting54321@gmail.com" ssoid="4620761" approved_code=""/>
+</paymentgateway>

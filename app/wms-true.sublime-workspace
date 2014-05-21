@@ -1,0 +1,1135 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_clas",
+				"get_class"
+			],
+			[
+				"inven",
+				"inventory_id"
+			],
+			[
+				"re",
+				"returned"
+			],
+			[
+				"pa",
+				"payment_status"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"array_u",
+				"array_unique"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"move",
+				"move_uploaded_file"
+			],
+			[
+				"has",
+				"hasNumeric"
+			],
+			[
+				"at",
+				"attribute"
+			],
+			[
+				"co",
+				"condition"
+			],
+			[
+				"fre",
+				"free_item"
+			],
+			[
+				"free",
+				"free_item"
+			],
+			[
+				"pol",
+				"policies"
+			],
+			[
+				"poli",
+				"policy_id"
+			],
+			[
+				"detac",
+				"detach"
+			],
+			[
+				"ac",
+				"accesses"
+			],
+			[
+				"joi",
+				"joiningVillage"
+			],
+			[
+				"joning",
+				"joiningVillage"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"cu",
+				"currentRoute"
+			],
+			[
+				"current",
+				"currentVillage"
+			],
+			[
+				"as",
+				"assignPermissions"
+			],
+			[
+				"per",
+				"permissions"
+			],
+			[
+				"gr",
+				"group"
+			],
+			[
+				"ci",
+				"currentVillage"
+			],
+			[
+				"c",
+				"currentVillage"
+			],
+			[
+				"merg",
+				"mergedPermissions"
+			],
+			[
+				"curre",
+				"currentUser"
+			],
+			[
+				"getC",
+				"getCurrentUser"
+			],
+			[
+				"villa",
+				"village_id"
+			],
+			[
+				"ar",
+				"attributes"
+			],
+			[
+				"vi",
+				"village"
+			],
+			[
+				"user",
+				"userGroups"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"a",
+				"attachments"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"roue",
+				"routeProfileController"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"Re",
+				"Response"
+			],
+			[
+				"http_bui",
+				"http_build_query"
+			],
+			[
+				"res",
+				"response_type"
+			],
+			[
+				"oau",
+				"oauthUrl"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"se",
+				"sessionId"
+			],
+			[
+				"acce",
+				"access_token"
+			],
+			[
+				"sess",
+				"sessionId"
+			],
+			[
+				"cli",
+				"client_id"
+			],
+			[
+				"refr",
+				"refresh_token"
+			],
+			[
+				"redi",
+				"redirectUri"
+			],
+			[
+				"grantT",
+				"grantTypes"
+			],
+			[
+				"clie",
+				"clientDetails"
+			],
+			[
+				"scop",
+				"scopeId"
+			],
+			[
+				"ow",
+				"owner_id"
+			],
+			[
+				"oauth",
+				"oauth_client_endpoints"
+			],
+			[
+				"Scop",
+				"ScopeInterface"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"call",
+				"callable"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"quo",
+				"quota"
+			],
+			[
+				"call_user",
+				"call_user_func_array"
+			],
+			[
+				"func_get_",
+				"func_get_args"
+			],
+			[
+				"get_class",
+				"get_class_methods"
+			],
+			[
+				"un",
+				"underscore-php"
+			],
+			[
+				"USer",
+				"UserInterface"
+			],
+			[
+				"HEADER_",
+				"header_navigator"
+			],
+			[
+				"resi",
+				"resized_file"
+			],
+			[
+				"tran",
+				"translate-me"
+			],
+			[
+				"t",
+				"th	Tag"
+			],
+			[
+				"atta",
+				"attachMail"
+			],
+			[
+				"publi",
+				"publisherInfo"
+			],
+			[
+				"fork_",
+				"fork_theme_dir"
+			],
+			[
+				"curr",
+				"currentTheme"
+			],
+			[
+				"fo",
+				"fork_theme_dir"
+			],
+			[
+				"pro",
+				"publisherInfo"
+			],
+			[
+				"read",
+				"readfile"
+			],
+			[
+				"jpe",
+				"jpeg"
+			],
+			[
+				"par",
+				"parsed_url"
+			],
+			[
+				"parse",
+				"parse_url"
+			],
+			[
+				"fancy",
+				"fancybox"
+			],
+			[
+				"W",
+				"Windows"
+			],
+			[
+				"bu",
+				"buagern"
+			],
+			[
+				"file",
+				"fileBrowser"
+			],
+			[
+				"spl",
+				"spl_autoload"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Teepluss/Sites/gitoffice/true/wms/application/libraries/Simplexlsx.php",
+			"settings":
+			{
+				"buffer_size": 17227,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"la",
+				"Laravel Generate: Resource"
+			],
+			[
+				"artis",
+				"Laravel Artisan Command"
+			],
+			[
+				"laravel",
+				"Laravel Artisan Command"
+			],
+			[
+				"larave",
+				"Laravel Artisan Command"
+			],
+			[
+				"lara",
+				"Laravel Generate: Resource"
+			],
+			[
+				"arti",
+				"Laravel Artisan Command"
+			],
+			[
+				"reso",
+				"Laravel Generate: Resource"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"space",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"svn up",
+				"SVN: Update"
+			],
+			[
+				"svn ",
+				"SVN: Commit…"
+			],
+			[
+				"svn",
+				"SVN: Commit…"
+			],
+			[
+				"com",
+				"SVN: Commit…"
+			],
+			[
+				"comm",
+				"SVN: Commit…"
+			],
+			[
+				"commit",
+				"SVN: Commit…"
+			],
+			[
+				"svn co",
+				"SVN: Commit…"
+			],
+			[
+				"svn com",
+				"SVN: Commit…"
+			],
+			[
+				"svn c",
+				"SVN: Commit…"
+			],
+			[
+				"svn: co",
+				"SVN: Commit…"
+			],
+			[
+				"svn:",
+				"SVN: Commit…"
+			],
+			[
+				"svn: c",
+				"SVN: Commit…"
+			],
+			[
+				"blad",
+				"Set Syntax: Blade"
+			],
+			[
+				"svn: up",
+				"SVN: Update"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"svn: u",
+				"SVN: Update"
+			],
+			[
+				"sv",
+				"SVN: Update"
+			],
+			[
+				"svn: ",
+				"SVN: Custom Command…"
+			],
+			[
+				"git p",
+				"Git: Push Current Branch"
+			],
+			[
+				"git c",
+				"Git: Quick Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Push Tags"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"alig",
+				"Set Syntax: AlignTab"
+			],
+			[
+				"for",
+				"Format: Php"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"do",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"doc",
+				"Snippet: Start Docblock"
+			],
+			[
+				"cli",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Teepluss/Sites/gitoffice/true/wms/application/libraries/Excel_Reader.php",
+		"/Users/Teepluss/Sites/gitoffice/true/wms/application/libraries/Sap_Reader.php",
+		"/Users/Teepluss/Sites/gitoffice/true/wms/application/controllers/migrate/data.php",
+		"/Users/Teepluss/Sites/gitoffice/true/pcms/vendor/teepluss/up/src/Teepluss/Up/Facades/Up.php",
+		"/Users/Teepluss/Sites/gitoffice/true/pcms/app/config/app.php",
+		"/Users/Teepluss/Sites/gitoffice/true/pcms/app/filters.php",
+		"/Users/Teepluss/Sites/gitoffice/true/pcms/app/routes.php",
+		"/Users/Teepluss/Sites/gitoffice/true/pcms/bootstrap/start.php",
+		"/Users/Teepluss/Sites/gitoffice/true/pcms/app/controllers/ApiCartController.php",
+		"/Users/Teepluss/Sites/gitoffice/true/pcms/app/repositories/CartRepository.php",
+		"/Users/Teepluss/Sites/gitoffice/true/pcms/public/index.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/themes/itruemart/partials/header.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/themes/itruemart/partials/footer.php",
+		"/Users/Teepluss/Sites/gitoffice/true/pcms/app/libraries/Wetrust/config/config.php",
+		"/Users/Teepluss/Sites/gitoffice/true/pcms/app/libraries/Wetrust/Wetrust.php",
+		"/Users/Teepluss/Sites/gitoffice/true/pcms/app/libraries/Wetrust/WetrustServiceProvider.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/themes/itruemart/partials/navbar.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/themes/itruemart/partials/topbar.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/bootstrap/start.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/app/config/packages/teepluss/theme/config.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/themes/itruemart/config.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/themes/itruemart/widgets/search.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/app/widgets/WidgetSearch.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/assets/css/reset.css",
+		"/Users/Teepluss/Sites/gitoffice/true/tu/bootstrap/start.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/assets/vendor/selectivizr.js",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/assets/vendor/jquery-bgsize/jquery.backgroundSize.js",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/assets/vendor/IE9.js",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/themes/itruemart/assets/css/itruemart.css",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/themes/itruemart/assets/js/itruemart.js",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/themes/itruemart/assets/css/fonts.css",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/assets/css/fonts.css",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/assets/vendor/jqueryui/jquery-ui.touch-punch.min.js",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/app/views/home/index.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/themes/itruemart/partials/login.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/app/core/FrontBaseController.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/composer.json",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/app/routes.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/app/controllers/HomeController.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/app/config/packages/loic-sharma/profiler/config.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/public/design/index.html",
+		"/Users/Teepluss/Sites/gitoffice/true/tu/app/controllers/HomeController.php",
+		"/Users/Teepluss/Sites/gitoffice/true/tu/app/repositories/ProductRepository.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/app/config/app.php",
+		"/Users/Teepluss/Sites/gitoffice/true/tu/app/routes.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/vendor/teepluss/theme/.gitignore",
+		"/Users/Teepluss/Sites/gitoffice/true/tu/app/start/global.php",
+		"/Users/Teepluss/Sites/gitoffice/true/itruemart/.gitignore",
+		"/Users/Teepluss/Sites/gitoffice/true/tu/app/config/app.php",
+		"/Users/Teepluss/Sites/gitoffice/true/tu/composer.json",
+		"/Users/Teepluss/Sites/gitoffice/true/tu/.gitignore",
+		"/Users/Teepluss/Sites/gitoffice/true/tu/app/config/dev/pcms.php",
+		"/Users/Teepluss/Sites/gitoffice/true/tu/app/config/alpha/pcms.php",
+		"/Users/Teepluss/Sites/gitoffice/true/pcms/.gitignore",
+		"/Users/Teepluss/Sites/gitoffice/true/tu/public/index.php",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/composer.json",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/.gitignore",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/app/config/production/endpoints.php",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/bootstrap/start.php",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/app/config/develop/database.php",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/app/routes.php",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/app/start/global.php",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/app/libraries/AgentSdk/AgentSdk.php",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/app/containers/start.php",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/app/containers/IoC.php",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/app/config/production/database.php",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/app/config/database.php",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/app/config/endpoints.php",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/artisan",
+		"/Users/Teepluss/Sites/gitoffice/airportthai/trust-aot/.gitattributes",
+		"/Users/Teepluss/Sites/gitoffice/mods-mglobe/config/paginator_html.php.bak",
+		"/Users/Teepluss/Sites/gitoffice/api-mglobe/.gitattributes",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/pure/layouts/default.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/ghtml/config.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/ghtml/layouts/default.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/se7en/config.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/core/AdminBaseController.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/core/BaseController.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/vendor/browser/respons.min.js",
+		"/Users/Teepluss/Sites/OpenShift/order/app/core/FrontBaseController.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/controllers/AdminCreditsController.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/controllers/CheckoutController.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/se7en/layouts/_default.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/pure/views/checkout/step1.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/core/CheckoutBaseController.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/pure/config.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/vendor/bootstrap-typeahead/typeahead.css",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/_ace/config.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/config/local/app.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/ace/config.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/se7en/layouts/default.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/se7en/assets/stylesheets/se7en-font.css",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/se7en/assets/stylesheets/font-awesome.css",
+		"/Users/Teepluss/Sites/OpenShift/order/public/index.php",
+		"/Users/Teepluss/Sites/OpenShift/order/composer.json",
+		"/Users/Teepluss/Sites/OpenShift/order/public/vendor/bootstrap/layouts/default.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/config/local/endpoints.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/controllers/AdminProductController.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/containers/helpers.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/config/status.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/libraries/AgentSdk/AgentSdk.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/libraries/AgentSdk/Process.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/se7en/views/product/edit.php",
+		"/Users/Teepluss/Sites/OpenShift/order/vendor/teepluss/theme/src/Teepluss/Theme/Theme.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/impl/Repo/Tag/EloquentTagRepository.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/models/Observes/ObjectObserver.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/models/Product.php",
+		"/Users/Teepluss/Sites/OpenShift/order/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/models/Object.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/models/Tag.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/config/packages/teepluss/theme/config.php",
+		"/Users/Teepluss/Sites/OpenShift/order/vendor/teepluss/theme/src/Teepluss/Theme/Asset.php",
+		"/Users/Teepluss/Sites/OpenShift/order/vendor/teepluss/theme/src/Teepluss/Theme/AssetContainer.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/se7en/views/product/admin_create.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/assets/controllers/admin-product.js",
+		"/Users/Teepluss/Sites/OpenShift/order/public/vendor/bootstrap-tagged/tagged.js",
+		"/Users/Teepluss/Sites/OpenShift/order/php/vendor/bootstrap-tagged/tagged.css",
+		"/Users/Teepluss/Sites/OpenShift/order/public/vendor/bootstrap-tagged/tagged.css",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/bootstrap3/views/checkout/step1.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/assets/js/bootstrap-tagged.js",
+		"/Users/Teepluss/Sites/OpenShift/order/app/controllers/ProductController.php",
+		"/Users/Teepluss/Sites/OpenShift/order/public/themes/bootstrap3/assets/typeahead.js",
+		"/Users/Teepluss/Sites/OpenShift/order/public/assets/js/admin-product.js",
+		"/Users/Teepluss/Sites/OpenShift/order/php/assets/js/bootstrap-tagged.js",
+		"/Users/Teepluss/Sites/OpenShift/order/app/controllers/ConnectController.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/config/session.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/config/local/session.php",
+		"/Users/Teepluss/Sites/OpenShift/order/app/config/production/session.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/Jerusalem/Sites/palvillages/app/",
+			"/Users/Jerusalem/Sites/palvillages/app/apis/",
+			"/Users/Jerusalem/Sites/palvillages/app/",
+			"/Users/Jerusalem/Sites/palvillages/app/controllers/",
+			"/Users/Jerusalem/Sites/palvillages/app/",
+			"/Users/Jerusalem/Sites/palvillages/app/controllers",
+			"/Users/Jerusalem/Sites/laravel/four/vendor/laravel",
+			"/Users/Jerusalem/Sites/laravel/four/",
+			"/Users/Jerusalem/Sites/laravel/four/workbench",
+			"-application/views/,-__pma/,-__fm/,-application/classes/",
+			"-*views/,-__pma/,-__fm/,-*classes/",
+			"-*views/,-__pma/,-__fm/",
+			"-*views/,-__pma/",
+			"-*views/,*__pma",
+			"-*views/, -*__pma",
+			"-*views/",
+			"-views/*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"postRem",
+			"api",
+			"font",
+			"images/",
+			"bootstrap",
+			"conso",
+			"con",
+			"offse",
+			"item",
+			"event",
+			"eventRe",
+			"$.br",
+			"tag",
+			"space",
+			"ton",
+			"up",
+			"json_",
+			"message",
+			"addFai",
+			"parameters",
+			"delected",
+			"		$",
+			"messages->",
+			"message->",
+			"message",
+			"type",
+			"destroy",
+			"description",
+			"authUser",
+			"$this->user",
+			"description",
+			"currentUser",
+			"description",
+			"json",
+			"description",
+			"$this->auth->getUser()",
+			"$this->auth->getUser",
+			"$this->authUser",
+			"$this->user",
+			"description",
+			"type",
+			"description",
+			"Object",
+			"type",
+			"description",
+			"type",
+			"description",
+			"visible",
+			"description",
+			"page",
+			"tab",
+			"description",
+			"queue('js')->",
+			"->queue('css')->",
+			"queue('css')->",
+			"asset",
+			"->add(",
+			"footer",
+			"container",
+			"carbon",
+			"getAttribute()",
+			"time24to12",
+			"display_errors",
+			"?>\n",
+			"ini_set('dis",
+			"verb",
+			"verg",
+			"    //try\n    //{\n        // Create a new request without username segment.\n        $request = Request::create('/'.implode('/', $segments), Request::getMethod());\n\n        return Route::dispatch($request)->getContent();\n    //}\n    //catch (Exception $e)\n    //{\n    //    dd( $e->getMessage() );\n    //}\n\n    //return Response::view('errors.missing', array(), 404);",
+			"dispatch",
+			"echo",
+			"m",
+			"request",
+			"try",
+			"description",
+			"        $",
+			"grantT",
+			"([a-z\\_]+) = :([a-zA-Z]+),",
+			",",
+			"tab",
+			"Debug::dump",
+			"Debug::",
+			"Debug::dump",
+			"EloquentUserProvider",
+			"hasher",
+			"EloquentUserProvider",
+			"description",
+			"type",
+			"description",
+			"type",
+			"description",
+			"type",
+			"description",
+			"type",
+			"description",
+			"type",
+			"description",
+			"return",
+			"theme::dirs",
+			"header",
+			"description",
+			"evaluate_asset",
+			"dependency_is_valid",
+			"description",
+			"paths",
+			"class View",
+			"type",
+			"description",
+			"type",
+			"description",
+			"type",
+			"description",
+			"callGlobalFilter",
+			"dispatch",
+			"create()",
+			"dispa",
+			"run()",
+			"Route::dispatch",
+			"storage",
+			"stoarge/",
+			"Response",
+			"description",
+			"/storage/",
+			"../storage/",
+			"preview",
+			"prev",
+			".gitkeep",
+			"display_error",
+			"error"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/themes/itruemart/assets/images/",
+			"$this->authUser->id",
+			"$this->authUser",
+			"container('footer')->",
+			"->",
+			"",
+			"'$1' => \\$$2,",
+			"'$1' => $2,",
+			"' => ",
+			"theme::containerDir",
+			"'lang:$1'",
+			"'$1'",
+			"'lang:$1'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Teepluss/Sites/gitoffice/true/wms/application/libraries/Simplexlsx.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.artisan_output":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 396.0
+	},
+	"output.git":
+	{
+		"height": 104.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.svn":
+	{
+		"height": 118.0
+	},
+	"project": "wms-true.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"databaseseeder",
+				"vendor/laravel/framework/tests/Database/DatabaseSeederTest.php"
+			],
+			[
+				".git",
+				"vendor/symfony/routing/Symfony/Component/Routing/.gitignore"
+			],
+			[
+				"model_pre",
+				"application/modules/preferences/models/model_preferences.php"
+			],
+			[
+				"cif",
+				"application/utils/CIFile.php"
+			],
+			[
+				"model_profile_",
+				"application/modules/profiles/models/model_profiles_has_widgets.php"
+			],
+			[
+				"ciwidget",
+				"application/utils/CIWidget.php"
+			],
+			[
+				"ciwidge",
+				"application/utils/CIWidget.php"
+			],
+			[
+				"files.php",
+				"application/modules/files/controllers/files.php"
+			],
+			[
+				"views/layo",
+				"application/views/themes/home/layouts/basic.php"
+			],
+			[
+				"cifile",
+				"application/utils/CIFile.php"
+			],
+			[
+				"front.js",
+				"assets/front/js/front.js"
+			],
+			[
+				"editable.js",
+				"assets/front/js/editable.js"
+			],
+			[
+				"start.js",
+				"assets/front/js/start.js"
+			],
+			[
+				"igetweb",
+				"assets/front/js/iGetWebClient.js"
+			],
+			[
+				"wind",
+				"assets/front/js/windows.js"
+			],
+			[
+				"win",
+				"assets/front/js/windows.js"
+			],
+			[
+				"windows",
+				"assets/front/js/windows.js"
+			],
+			[
+				"pac",
+				"bundles/zend/library/Zend/View/Helper/PaginationControl.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Sublime Projects/itruemart.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 835.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

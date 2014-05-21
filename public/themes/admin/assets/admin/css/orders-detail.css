@@ -1,0 +1,20 @@
+.mws-panel { -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; }
+
+.text-right { text-align: right; }
+
+.customer input[type="text"] { margin-bottom: 10px; width: 300px; }
+.customer textarea { margin-bottom: 10px; width: 300px; height: 100px; }
+.customer strong { margin-right: 5px; }
+
+.shipment { margin-top: 30px; }
+.actions { padding: 10px; }
+.action button { margin-left: 20px; }
+.shipping-header { padding: 10px; }
+.shipping-header .label { font-size: 16px; }
+.shipping-header .grid_4 { min-height: 30px; font-size: 16px; }
+
+#order-note div { margin-bottom: 10px; }
+#order-note label { width: 80px; display: inline-block; }
+
+.add-gift .submit { padding: 10px; text-align: right; }
+#gift-list .pcms-numeric { width: 100%; }

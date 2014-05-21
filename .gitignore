@@ -1,0 +1,10 @@
+.DS_Store
+.svn
+/nbproject/private/
+/nbproject/
+public/goon.php
+public/uploads
+/app/repositories/OldProductRepository.php
+/app/models/Observer/_ProductSearchObserver.php
+/app/repositories/_CheckoutRepository.php
+/.idea/

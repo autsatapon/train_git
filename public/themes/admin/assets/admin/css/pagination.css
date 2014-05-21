@@ -1,0 +1,21 @@
+
+.pagination {
+	text-align:center;
+	width:100%
+	border-top:1px solid #D5D5D5;
+}
+
+.pagination ul{
+	list-style-type: none;
+	margin-left:180px;
+	overflow:hidden;
+}
+
+.pagination li{
+	float:left;
+	margin-left:5px;
+}
+
+div#DataTables_Table_1_paginate {
+	padding:10px;
+}

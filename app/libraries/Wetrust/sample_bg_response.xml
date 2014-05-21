@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paymentgateway>
+	<payment cpgtransactionid="131111750827" transactionid="27297449" respcode="0" respdesc="Approved" payment_channel="CCW" amount="1.00" pay_date="11112013145747" channeltype="" ref1="90000000" ref2="269793288374" ref3="6608" ref4="" orderidwls="9328837" loginuser="" mphone="0890000000" ssoid="4620761"/>
+</paymentgateway>

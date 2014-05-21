@@ -1,0 +1,11 @@
+Path: /home/vhosts/pcms
+URL: file:///home/svn/pcms
+Repository Root: file:///home/svn/pcms
+Repository UUID: c269c000-2036-4547-a6c6-72dd0843ce15
+Revision: 6083
+Node Kind: directory
+Schedule: normal
+Last Changed Author: igetweb
+Last Changed Rev: 6083
+Last Changed Date: 2013-12-17 17:30:15 +0700 (Tue, 17 Dec 2013)
+

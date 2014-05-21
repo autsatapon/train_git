@@ -1,0 +1,31 @@
+{
+    "name": "teepluss/explore",
+    "description": "apidocjs explorer for Laravel",
+    "keywords": ["Laravel", "apidoc", "apidocjs", "restful", "explorer", "console"],
+    "homepage": "https://github.com/teepluss/laravel4-explore",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Teepluss",
+            "email": "teepluss@gmail.com",
+            "homepage": "https://github.com/teepluss",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations",
+            "src/controllers",
+            "src/Teepluss/Explore/Exceptions.php"
+        ],
+        "psr-0": {
+            "Teepluss\\Explore\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

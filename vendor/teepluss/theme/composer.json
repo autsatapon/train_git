@@ -1,0 +1,30 @@
+{
+    "name": "teepluss/theme",
+    "description": "Theme will help you organize your themes inside Laravel 4 projects easily and maintain its related assets, layouts and partials for the theme in single directory.",
+    "keywords": ["laravel", "laravel4", "theme", "layout", "asset", "widget", "twig"],
+    "homepage": "https://github.com/teepluss/laravel4-theme",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Teepluss",
+            "email": "admin@laravel.in.th"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "twig/twig": "1.13.*@dev"
+    },
+    "require-dev": {
+        "illuminate/support": "4.1.x"
+    },
+    "autoload": {
+        "classmap": [
+            "src/Teepluss/Theme/Exceptions.php"
+        ],
+        "psr-0": {
+            "Teepluss\\Theme": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

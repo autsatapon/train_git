@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title><?php echo Theme::place('title'); ?></title>
+        <meta charset="utf-8">
+        <meta name="keywords" content="<?php echo Theme::place('keywords'); ?>">
+        <meta name="description" content="<?php echo Theme::place('description'); ?>">
+        <?php echo Theme::asset()->styles(); ?>
+        <?php echo Theme::asset()->scripts(); ?>
+    </head>
+    <body>
+        <?php echo Theme::partial('header'); ?>
+
+        <div class="container">
+            <?php echo Theme::content(); ?>
+        </div>
+
+        <?php echo Theme::partial('footer'); ?>
+
+        <?php echo Theme::asset()->container('footer')->scripts(); ?>
+        <?php echo Theme::asset()->container('macro')->scripts() ?>
+        <?php echo Theme::asset()->container('embed')->scripts() ?>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+.promotion_create input { padding: 4px 6px !important; }
+.promotion_create input[type="checkbox"], input[type="radio"] { margin-right: 8px; }
+.promotion_create label:not(.mws-form-label) { margin-right: 15px !important; }
+/*.promotion_create .mws-form-row { padding: 9px 12px; }*/
+
+.promotion_create fieldset.conditions input.ssmall,
+.promotion_create fieldset.effects input.ssmall,
+.promotion_create fieldset.limitations input.ssmall { width: 80px; margin: 5px; }
+
+.promotion_create fieldset.conditions .grid_2 { line-height: 40px; }
+.promotion_create fieldset.limitations select { margin-left: 10px; }
